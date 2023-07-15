@@ -40,7 +40,11 @@ h3,
 h4,
 h5,
 h6 {
+<<<<<<< HEAD
   font-family: "Montsenerrat", sans-serif;
+=======
+  font-family: "Montserrat", sans-serif;
+>>>>>>> d1b1489a6e01821e538855d65baf0d200f29c56e
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -213,12 +217,21 @@ h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 0 20px 20px 0;
+<<<<<<< HEAD
   color: #f1a51fff;
 }
 
 #intro .intro-info .btn-get-started {
   background: #34c0df;
   border: 2px solid #34c0df;
+=======
+  color: #fff;
+}
+
+#intro .intro-info .btn-get-started {
+  background: #007bff;
+  border: 2px solid #007bff;
+>>>>>>> d1b1489a6e01821e538855d65baf0d200f29c56e
   color: #fff;
 }
 
@@ -265,7 +278,11 @@ h6 {
 .main-nav a {
   display: block;
   position: relative;
+<<<<<<< HEAD
   color: #6e2f93;
+=======
+  color: #004289;
+>>>>>>> d1b1489a6e01821e538855d65baf0d200f29c56e
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -276,7 +293,11 @@ h6 {
 .main-nav a:hover,
 .main-nav .active > a,
 .main-nav li:hover > a {
+<<<<<<< HEAD
   color: #34c0df;
+=======
+  color: #007bff;
+>>>>>>> d1b1489a6e01821e538855d65baf0d200f29c56e
   text-decoration: none;
 }
 
@@ -540,12 +561,20 @@ h6 {
   flex-direction: column;
   text-align: center;
   border-radius: 50%;
+<<<<<<< HEAD
   border: 2px solid #34c0df;
+=======
+  border: 2px solid #007bff;
+>>>>>>> d1b1489a6e01821e538855d65baf0d200f29c56e
   transition: all 0.3s ease-in-out;
 }
 
 #about .about-container .icon-box .icon i {
+<<<<<<< HEAD
   color: #34c0df;
+=======
+  color: #007bff;
+>>>>>>> d1b1489a6e01821e538855d65baf0d200f29c56e
   font-size: 24px;
 }
 
